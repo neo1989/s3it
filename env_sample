@@ -1,0 +1,3 @@
+export S3IT_SECRETID=""
+export S3IT_SECRETKEY=""
+export S3IT_BASEURL=""
